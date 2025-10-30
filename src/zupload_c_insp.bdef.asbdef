@@ -1,0 +1,17 @@
+projection;
+
+strict ( 2 );
+
+
+
+define behavior for ZUPLOAD_C_INSP alias Inspection
+
+{
+
+  use create;
+
+  use update;
+
+  use delete;
+
+}

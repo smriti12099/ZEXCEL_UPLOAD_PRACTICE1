@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition For Inspectation'
+define service Zupload_UI_INSP {
+  expose ZUPLOAD_C_INSP as Inspectations;
+}
